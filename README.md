@@ -70,9 +70,7 @@
    <a href="https://github.com/BabakMovahhedi"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://in.linkedin.com/in/babak-movahhedi"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/BugFatherr"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-    <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-  <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
-</p>
+
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
