@@ -73,5 +73,6 @@
 
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+[![](https://visitcount.itsvg.in/api?id=Babak&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ⭐️ From [BabakMovahhedi](https://github.com/BabakMovahhedi)
